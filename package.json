@@ -1,0 +1,14 @@
+{
+  "name": "aws-dash",
+  "version": "1.0.0",
+  "description": "Perform tasks with Dash buttons",
+  "main": "app.js",
+  "dependencies": {
+    "node-dash-button": "0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanmccann/aws-dash.git"
+  },
+  "homepage": "https://github.com/bhberson/pizzadash#readme"
+}
